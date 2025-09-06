@@ -28,4 +28,4 @@ If an error occurs, such as an incomplete format specifier, the function returns
 .SH SEE ALSO
 .BR printf (3)
 .SH AUTHORS
-Your Name <your_email@domain.com>
+Mahdi Taghizada <tagizademehti@gmail.com>
